@@ -1,0 +1,501 @@
+{"image": "000000000139.jpg, "caption": "The chair is around the table.", "label": 1, "relation": "around"}
+{"image": "000000000285.jpg, "caption": "The blue plane is under the red plane.", "label": 1, "relation": "under"}
+{"image": "000000000632.jpg, "caption": "The umbrella is above the person.", "label": 1, "relation": "above"}
+{"image": "000000000724.jpg, "caption": "The box is on the left of the computer.", "label": 1, "relation": "on the left of"}
+{"image": "000000000776.jpg, "caption": "One giraffe is on the right of the other.", "label": 1, "relation": "on the right of"}
+{"image": "000000000785.jpg, "caption": "The skis are under the person.", "label": 1, "relation": "under"}
+{"image": "000000000802.jpg, "caption": "The Long strips of electrical appliances is on the left of the wooden cabinet.", "label": 0, "relation": "on the left of"}
+{"image": "000000000872.jpg, "caption": "The man in green is behind the man in white.", "label": 1, "relation": "behind"}
+{"image": "000000000885.jpg, "caption": "The tennis racket is on the left of the person.", "label": 0, "relation": "on the left of"}
+{"image": "000000001000.jpg, "caption": "The parrot is under the skateboard.", "label": 0, "relation": "under"}
+{"image": "000000001268.jpg, "caption": "The man in black is to the right of the man in red.", "label": 1, "relation": "the right of"}
+{"image": "000000001296.jpg, "caption": "The red pen is on the right of the blue scissors.", "label": 1, "relation": "on the right of"}
+{"image": "000000001353.jpg, "caption": "The orange is on the right of the apple.", "label": 0, "relation": "on the right of"}
+{"image": "000000001425.jpg, "caption": "The cat is in front of the bottle.", "label": 0, "relation": "in front of"}
+{"image": "000000001490.jpg, "caption": "The OARS are to the left of the man.", "label": 1, "relation": "the left of"}
+{"image": "000000001503.jpg, "caption": "The mouse is at the bottom of the computer screen.", "label": 1, "relation": "the bottom of"}
+{"image": "000000001532.jpg, "caption": "The sign is above the car.", "label": 1, "relation": "above"}
+{"image": "000000001584.jpg, "caption": "The compass is on the left of the blue box.", "label": 0, "relation": "the left of"}
+{"image": "000000001675.jpg, "caption": "The cup is above the plate.", "label": 1, "relation": "above"}
+{"image": "000000001761.jpg, "caption": "There are no planes around a plane.", "label": 0, "relation": "around"}
+{"image": "000000001818.jpg, "caption": "The chair is to the right of the cat.", "label": 0, "relation": "the right of"}
+{"image": "000000001993.jpg, "caption": "The two zebras are parallel.", "label": 1, "relation": "parallel"}
+{"image": "000000002006.jpg, "caption": "The man is on the right side of the wood with the flag.", "label": 1, "relation": "the right side of"}
+{"image": "000000002149.jpg, "caption": "The glass bottle is in front of the heels.", "label": 0, "relation": "in front of"}
+{"image": "000000002153.jpg, "caption": "A swan is surrounded by a chicken.", "label": 0, "relation": "surround"}
+{"image": "000000002157.jpg, "caption": "The cake is behind the food plate.", "label": 0, "relation": "behind"}
+{"image": "000000002261.jpg, "caption": "There are sheep near a cow.", "label": 0, "relation": "near"}
+{"image": "000000002299.jpg, "caption": "The tomato is to the right of the broccoli.", "label": 0, "relation": "the right of"}
+{"image": "000000002431.jpg, "caption": "The book is on the right of the mouse.", "label": 1, "relation": "the right of"}
+{"image": "000000002473.jpg, "caption": "The person with open hands is on top of the person without open hands.", "label": 1, "relation": "on top of"}
+{"image": "000000002532.jpg, "caption": "The orange is directly above the apple.", "label": 0, "relation": "directly above"}
+{"image": "000000002587.jpg, "caption": "The banana is under the donut.", "label": 1, "relation": "under"}
+{"image": "000000002592.jpg, "caption": "The two zebras are parallel.", "label": 1, "relation": "parallel"}
+{"image": "000000002685.jpg, "caption": "The towel is on the right of the orange.", "label": 1, "relation": "the right of"}
+{"image": "000000002923.jpg, "caption": "The fork is in the cake.", "label": 0, "relation": "in"}
+{"image": "000000003156.jpg, "caption": "The phone is to the left of the food.", "label": 1, "relation": "the left of"}
+{"image": "000000003255.jpg, "caption": "The keyboard is surrounded by a mouse.", "label": 1, "relation": "surround"}
+{"image": "000000003501.jpg, "caption": "The juicer is to the right of the lemons.", "label": 1, "relation": "the right of"}
+{"image": "000000003553.jpg, "caption": "The chocolate doughnut is under the pink doughnut.", "label": 1, "relation": "under"}
+{"image": "000000003661.jpg, "caption": "The red cup is on the right of the green cup.", "label": 1, "relation": "the right of"}
+{"image": "000000003845.jpg, "caption": "The radio is above the TV.", "label": 0, "relation": "above"}
+{"image": "000000003934.jpg, "caption": "The carrot is on top of the onion.", "label": 1, "relation": "on top of"}
+{"image": "000000004134.jpg, "caption": "The man in blue is to the right of the man in white.", "label": 1, "relation": "the right of"}
+{"image": "000000004395.jpg, "caption": "The doll bear is to the right of the heels.", "label": 0, "relation": "the right of"}
+{"image": "000000004495.jpg, "caption": "The dog sits on the sofa.", "label": 0, "relation": "on"}
+{"image": "000000004765.jpg, "caption": "The surfboard is below the person.", "label": 1, "relation": "below"}
+{"image": "000000004795.jpg, "caption": "The sliced bread is under the bread with the white sauce.", "label": 1, "relation": "under"}
+{"image": "000000005001.jpg, "caption": "The four bottles are parallel.", "label": 1, "relation": "parallel"}
+{"image": "000000005037.jpg, "caption": "The black box is above the black circular object.", "label": 1, "relation": "above"}
+{"image": "000000005060.jpg, "caption": "The teacup is on the right of the dinner plate.", "label": 0, "relation": "the right of"}
+{"image": "000000005193.jpg, "caption": "There is cake around the teacup.", "label": 1, "relation": "arround"}
+{"image": "000000005477.jpg, "caption": "The computer monitor is on the toilet.", "label": 0, "relation": "on"}
+{"image": "000000005503.jpg, "caption": "The toilet seat is on top of the toilet.", "label": 1, "relation": "on top of"}
+{"image": "000000005529.jpg, "caption": "Sunglasses on the drink glass.", "label": 0, "relation": "on"}
+{"image": "000000005586.jpg, "caption": "The bananas are in the bowl.", "label": 1, "relation": "in"}
+{"image": "000000005600.jpg, "caption": "The two bowls of food are parallel.", "label": 0, "relation": "parallel"}
+{"image": "000000005992.jpg, "caption": "The keyboard is under the computer.", "label": 1, "relation": "under"}
+{"image": "000000006012.jpg, "caption": "The apple is above the banana.", "label": 1, "relation": "above"}
+{"image": "000000006040.jpg, "caption": "There is another penguin around one penguin.", "label": 1, "relation": "around"}
+{"image": "000000006213.jpg, "caption": "The orange item is to the left of the yellow item.", "label": 1, "relation": "the left of"}
+{"image": "000000006460.jpg, "caption": "Bananas are inside the white packaging tape.", "label": 0, "relation": "inside"}
+{"image": "000000006471.jpg, "caption": "The standing man is in front of the fully crouched man.", "label": 1, "relation": "in front of"}
+{"image": "000000006614.jpg, "caption": "The man in red is to the left of the man in black.", "label": 0, "relation": "the left of"}
+{"image": "000000006723.jpg, "caption": "The computer screen is above the computer.", "label": 1, "relation": "above"}
+{"image": "000000006763.jpg, "caption": "The broccoli is on top of the spoon.", "label": 1, "relation": "on top of"}
+{"image": "000000006771.jpg, "caption": "The man in yellow is to the right of the man in blue.", "label": 1, "relation": "the right of"}
+{"image": "000000006818.jpg, "caption": "The clock is on the right of the ornament.", "label": 1, "relation": "the right of"}
+{"image": "000000006894.jpg, "caption": "The flower is on top of the glass bottle.", "label": 1, "relation": "on top of"}
+{"image": "000000006954.jpg, "caption": "The spoon is on top of the banana.", "label": 0, "relation": "on top of"}
+{"image": "000000007088.jpg, "caption": "The red sign is under the blue sign.", "label": 0, "relation": "under"}
+{"image": "000000007108.jpg, "caption": "Strawberries are on the right side of bananas.", "label": 0, "relation": "on the right side of"}
+{"image": "000000007278.jpg, "caption": "The cabinet is on the right side of the toilet.", "label": 1, "relation": "the right side of"}
+{"image": "000000007281.jpg, "caption": "There are no white horses around the brown horses", "label": 0, "relation": "around"}
+{"image": "000000007386.jpg, "caption": "Bananas above the white cake.", "label": 0, "relation": "above"}
+{"image": "000000007511.jpg, "caption": "The kite is above the man.", "label": 1, "relation": "above"}
+{"image": "000000007574.jpg, "caption": "On the right of the person wearing red clothes is the person wearing yellow clothes.", "label": 0, "relation": "the right of"}
+{"image": "000000007784.jpg, "caption": "The cat is on the left side of the green food.", "label": 0, "relation": "on the left side of"}
+{"image": "000000007795.jpg, "caption": "The dipping sauce is on the left side of the steak.", "label": 1, "relation": "the left of"}
+{"image": "000000007816.jpg, "caption": "There is no driver on the motorcycle.", "label": 0, "relation": "on"}
+{"image": "000000007818.jpg, "caption": "The wine glass is on the left side of the bottle.", "label": 0, "relation": "on the left side of"}
+{"image": "000000007888.jpg, "caption": "The apple is under the crow.", "label": 1, "relation": "under"}
+{"image": "000000007977.jpg, "caption": "Strawberries are on top of bananas.", "label": 0, "relation": "on top of"}
+{"image": "000000007991.jpg, "caption": "The bananas is on the top of the green food.", "label": 0, "relation": "the top of"}
+{"image": "000000008021.jpg, "caption": "The three computers are parallel.", "label": 1, "relation": "parallel"}
+{"image": "000000008211.jpg, "caption": "People are on the right of the motorcycle.", "label": 1, "relation": "the right of"}
+{"image": "000000008277.jpg, "caption": "The black box with the green food is on top of the white food.", "label": 1, "relation": "on top of"}
+{"image": "000000008532.jpg, "caption": "Blue marks on the baseball.", "label": 1, "relation": "on"}
+{"image": "000000008629.jpg, "caption": "People are under the green chair.", "label": 0, "relation": "under"}
+{"image": "000000008690.jpg, "caption": "Birds above the plane.", "label": 0, "relation": "above"}
+{"image": "000000008762.jpg, "caption": "The hot dog is on the right of the other food.", "label": 0, "relation": "the right of"}
+{"image": "000000008844.jpg, "caption": "The cookie is under the phone.", "label": 1, "relation": "under"}
+{"image": "000000008899.jpg, "caption": "The green ball is under the hydrant.", "label": 1, "relation": "under"}
+{"image": "000000009378.jpg, "caption": "The sink is on the left of the cabinet.", "label": 0, "relation": "the left of"}
+{"image": "000000009400.jpg, "caption": "The suitcase is to the right of the person.", "label": 1, "relation": "the right of"}
+{"image": "000000009448.jpg, "caption": "There are no flowers on the vase.", "label": 0, "relation": "on"}
+{"image": "000000009483.jpg, "caption": "The yellow bus is above the blue bus.", "label": 0, "relation": "above"}
+{"image": "000000009590.jpg, "caption": "The two bowls of food are parallel.", "label": 0, "relation": "parallel"}
+{"image": "000000009769.jpg, "caption": "The mobile phone is on the left of the memory card.", "label": 1, "relation": "the left of"}
+{"image": "000000009772.jpg, "caption": "The red sign is above the white sign.", "label": 1, "relation": "above"}
+{"image": "000000009891.jpg, "caption": "There are no oranges around the banana.", "label": 0, "relation": "around"}
+{"image": "000000009914.jpg, "caption": "The banana is on the left of the purple food.", "label": 1, "relation": "the left of"}
+{"image": "000000010092.jpg, "caption": "The mosquito net is above the bed.", "label": 1, "relation": "above"}
+{"image": "000000010363.jpg, "caption": "Watermelon under banana.", "label": 0, "relation": "under"}
+{"image": "000000010583.jpg, "caption": "The phone is in front of the glass.", "label": 1, "relation": "in front of"}
+{"image": "000000010707.jpg, "caption": "There is a pig around a sheep.", "label": 0, "relation": "around"}
+{"image": "000000010764.jpg, "caption": "The remote control is on the right of the iron box.", "label": 1, "relation": "the right of"}
+{"image": "000000010977.jpg, "caption": "The black plate is to the right of the red plate.", "label": 1, "relation": "the right of"}
+{"image": "000000010995.jpg, "caption": "The black scissors are above the two orange scissors.", "label": 0, "relation": "above"}
+{"image": "000000011051.jpg, "caption": "One zebra is behind another zebra.", "label": 0, "relation": "behind"}
+{"image": "000000011122.jpg, "caption": "The green plate is on top of the white plate.", "label": 1, "relation": "on top of"}
+{"image": "000000011149.jpg, "caption": "The green barricade is to the left of the hydrant.", "label": 1, "relation": "the left of"}
+{"image": "000000011197.jpg, "caption": "Strawberries are on the right side of bananas.", "label": 0, "relation": "on the right side of"}
+{"image": "000000011511.jpg, "caption": "The wooden stool is to the left of the toilet.", "label": 1, "relation": "to the left of"}
+{"image": "000000011615.jpg, "caption": "The blue sign is above the green sign.", "label": 1, "relation": "above"}
+{"image": "000000011699.jpg, "caption": "The man in blue is to the left of the man in red.", "label": 0, "relation": "the left of"}
+{"image": "000000011760.jpg, "caption": "The hat is on top of the suitcase.", "label": 1, "relation": "on top of"}
+{"image": "000000011831.jpg, "caption": "The apple is on the right of the banana.", "label": 1, "relation": "the right of"}
+{"image": "000000012062.jpg, "caption": "The three clocks are parallel.", "label": 1, "relation": "parallel"}
+{"image": "000000012120.jpg, "caption": "The scissors are on the top of the box.", "label": 0, "relation": "on the top of"}
+{"image": "000000012280.jpg, "caption": "The suitcase is behind the woman.", "label": 1, "relation": "behind"}
+{"image": "000000012576.jpg, "caption": "The apple behind the ice cream box.", "label": 0, "relation": "the left of"}
+{"image": "000000012639.jpg, "caption": "The standing boy is behind the squatting boy.", "label": 0, "relation": "behind"}
+{"image": "000000012667.jpg, "caption": "The yellow banana is under the green banana.", "label": 1, "relation": "under"}
+{"image": "000000012670.jpg, "caption": "The pears are behind the blue vase.", "label": 1, "relation": "behind"}
+{"image": "000000012748.jpg, "caption": "The China is on the left of the glass.", "label": 1, "relation": "the left of"}
+{"image": "000000013004.jpg, "caption": "The scissors are above the rubber band.", "label": 0, "relation": "above"}
+{"image": "000000013177.jpg, "caption": "The blue clock is below the white clock.", "label": 0, "relation": "below"}
+{"image": "000000013201.jpg, "caption": "The plastic box is on top of the food box.", "label": 1, "relation": "on top of"}
+{"image": "000000013291.jpg, "caption": "The apple is on the right side of the banana.", "label": 0, "relation": on the right side of"}
+{"image": "000000013348.jpg, "caption": "The mouse is above the keyboard.", "label": 0, "relation": "above"}
+{"image": "000000013546.jpg, "caption": "The man is above the skateboard.", "label": 1, "relation": "above"}
+{"image": "000000013579.jpg, "caption": "The white bowl is inside the blue bowl.", "label": 0, "relation": "inside"}
+{"image": "000000013659.jpg, "caption": "The donuts are inside the small white bowl.", "label": 0, "relation": "inside"}
+{"image": "000000013729.jpg, "caption": "The water cup is under the bread.", "label": 0, "relation": "under"}
+{"image": "000000013774.jpg, "caption": "The biggest vase is on the right of the smallest vase.", "label": 0, "relation": "the right of"}
+{"image": "000000013923.jpg, "caption": "The bread is to the left of the strawberry.", "label": 1, "relation": "the left of"}
+{"image": "000000014038.jpg, "caption": "The blue balloon is above the counter.", "label": 1, "relation": "above"}
+{"image": "000000014226.jpg, "caption": "The red sign is below the blue sign.", "label": 0, "relation": "below"}
+{"image": "000000014380.jpg, "caption": "The bananas are on top of the two food bowls.", "label": 0, "relation": "on top of"}
+{"image": "000000014439.jpg, "caption": "The kite is on the left of the people.", "label": 1, "relation": "on the left of"}
+{"image": "000000014473.jpg, "caption": "The apple is behind the little tomato.", "label": 0, "relation": "behind"}
+{"image": "000000014831.jpg, "caption": "The blue bag is on the left of the red bag.", "label": 1, "relation": "on the left of"}
+{"image": "000000014888.jpg, "caption": "The bread is on the left of the phone.", "label": 1, "relation": "on the left of"}
+{"image": "000000015079.jpg, "caption": "Chopsticks are on the right side of the sandwich.", "label": 0, "relation": "on the right side of"}
+{"image": "000000015254.jpg, "caption": "There are apples in the lunch box containing rice.", "label": 0, "relation": "in"}
+{"image": "000000015272.jpg, "caption": "The orange is on the right of the pear.", "label": 0, "relation": "the right of"}
+{"image": "000000015278.jpg, "caption": "The red bucket is to the left of the green bucket.", "label": 1, "relation": "the left of"}
+{"image": "000000015335.jpg, "caption": "The mouse is above the keyboard.", "label": 1, "relation": "above"}
+{"image": "000000015338.jpg, "caption": "The vegetable lunch box is above the meat lunch box.", "label": 0, "relation": "above"}
+{"image": "000000015440.jpg, "caption": "The bicycle is on the right side of the warning sign.", "label": 0, "relation": "on the right side of"}
+{"image": "000000015497.jpg, "caption": "The wine bottle is on the left of the glass.", "label": 0, "relation": "the left of"}
+{"image": "000000015517.jpg, "caption": "The two black cars were traveling in parallel.", "label": 1, "relation": "parallel"}
+{"image": "000000015597.jpg, "caption": "The banana is to the left of the blue pen.", "label": 1, "relation": "the left of"}
+{"image": "000000015660.jpg, "caption": "The scissors are to the right of the red sign.", "label": 0, "relation": "the right of"}
+{"image": "000000015746.jpg, "caption": "There is a doll on the right side of the vase.", "label": 0, "relation": "on the right side of"}
+{"image": "000000015751.jpg, "caption": "The teacup is on the right of the sandwich.", "label": 1, "relation": "the right of"}
+{"image": "000000015956.jpg, "caption": "The bike is in front of the teacup.", "label": 0, "relation": "in front of"}
+{"image": "000000016010.jpg, "caption": "The paper is on the left of the blue picture book.", "label": 1, "relation": "the right of"}
+{"image": "000000016228.jpg, "caption": "The black keyboard is above the white one.", "label": 1, "relation": "above"}
+{"image": "000000016249.jpg, "caption": "The banana is on the right of the can.", "label": 1, "relation": "the right of"}
+{"image": "000000016439.jpg, "caption": "The computer screen is under the lamp.", "label": 1, "relation": "under"}
+{"image": "000000016451.jpg, "caption": "The big lemons are on top of the little lemons.", "label": 1, "relation": "on top of"}
+{"image": "000000016502.jpg, "caption": "Flowers in green vases.", "label": 0, "relation": "in"}
+{"image": "000000016598.jpg, "caption": "The two oranges are parallel.", "label": 1, "relation": "parallel"}
+{"image": "000000016958.jpg, "caption": "The keyboard is below the computer screen.", "label": 1, "relation": "under"}
+{"image": "000000017029.jpg, "caption": "The toothbrush is on the left of the comb.", "label": 0, "relation": "the left of"}
+{"image": "000000017031.jpg, "caption": "The orange is on the left of the food.", "label": 0, "relation": "the left of"}
+{"image": "000000017115.jpg, "caption": "The flowers are on top of the vase.", "label": 1, "relation": "on top of"}
+{"image": "000000017178.jpg, "caption": "Milk is on the right side of the food.", "label": 0, "relation": "on the right side of"}
+{"image": "000000017182.jpg, "caption": "The can is in front of the cake.", "label": 0, "relation": "in front of"}
+{"image": "000000017207.jpg, "caption": "The three ceramics are parallel.", "label": 0, "relation": "parallel"}
+{"image": "000000017379.jpg, "caption": "The green bean is under the apple.", "label": 1, "relation": "under"}
+{"image": "000000017436.jpg, "caption": "The bird is under the sign.", "label": 0, "relation": "under"}
+{"image": "000000017627.jpg, "caption": "The hat's on the hydrant.", "label": 1, "relation": "on"}
+{"image": "000000017714.jpg, "caption": "The cup with coffee is to the left of the cup with water.", "label": 1, "relation": "the left of"}
+{"image": "000000017899.jpg, "caption": "The keyboard is to the left of the mouse.", "label": 1, "relation": "the left of"}
+{"image": "000000017905.jpg, "caption": "The flowers are at the bottom of the cake.", "label": 1, "relation": "the bottom of"}
+{"image": "000000017959.jpg, "caption": "The orange is above the bowl.", "label": 1, "relation": "above"}
+{"image": "000000018150.jpg, "caption": "The pomegranate is on the right of the banana.", "label": 0, "relation": "the right of"}
+{"image": "000000018193.jpg, "caption": "The two elephants are parallel.", "label": 1, "relation": "parallel"}
+{"image": "000000018380.jpg, "caption": "The orange is under the banana.", "label": 0, "relation": "under"}
+{"image": "000000018491.jpg, "caption": "The blue toy is on the left of the orange toy.", "label": 1, "relation": "the left of"}
+{"image": "000000018519.jpg, "caption": "The spoon is inside the white food.", "label": 0, "relation": "inside"}
+{"image": "000000018575.jpg, "caption": "The TV is on the TV cabinet.", "label": 1, "relation": "on"}
+{"image": "000000018737.jpg, "caption": "The microwave is behind the refrigerator.", "label": 0, "relation": "behind"}
+{"image": "000000018770.jpg, "caption": "The cat is behind the plastic bottle.", "label": 1, "relation": "behind"}
+{"image": "000000018833.jpg, "caption": "The man in blue is in front of the man in red.", "label": 0, "relation": "in front of"}
+{"image": "000000018837.jpg, "caption": "The two loaves are parallel.", "label": 1, "relation": "parallel"}
+{"image": "000000019042.jpg, "caption": "The red cup is to the right of the black cup.", "label": 1, "relation": "the right of"}
+{"image": "000000019109.jpg, "caption": "The fish is under the beef Patty.", "label": 0, "relation": "under"}
+{"image": "000000019221.jpg, "caption": "The snail is under the broccoli.", "label": 0, "relation": "under"}
+{"image": "000000019402.jpg, "caption": "The computer screen is above the computer keyboard.", "label": 1, "relation": "above"}
+{"image": "000000019432.jpg, "caption": "There are flowers above the white porcelain.", "label": 0, "relation": "above"}
+{"image": "000000019742.jpg, "caption": "The bowl with the yellow dip is on top of the bowl with the vegetables.", "label": 0, "relation": "on top of"}
+{"image": "000000019786.jpg, "caption": "The bottle is on top of the cake.", "label": 1, "relation": "on top of"}
+{"image": "000000019924.jpg, "caption": "One orange is to the left of the other.", "label": 1, "relation": "the left of"}
+{"image": "000000020059.jpg, "caption": "A cow behind a zebra.", "label": 0, "relation": "behind"}
+{"image": "000000020107.jpg, "caption": "The donut is on top of the cup.", "label": 0, "relation": "on top of"}
+{"image": "000000020247.jpg, "caption": "The biscuit is on the right of the banana.", "label": 0, "relation": "the right of"}
+{"image": "000000020333.jpg, "caption": "The doughnut is on top of the plate.", "label": 1, "relation": "on top of"}
+{"image": "000000020553.jpg, "caption": "The cup is to the left of the donut.", "label": 1, "relation": "the left of"}
+{"image": "000000020571.jpg, "caption": "One person above another.", "label": 1, "relation": "above"}
+{"image": "000000020992.jpg, "caption": "The cat is above the mouse.", "label": 1, "relation": "above"}
+{"image": "000000021167.jpg, "caption": "The cake is on top of the donut.", "label": 0, "relation": "on top of"}
+{"image": "000000021465.jpg, "caption": "The item is on the blue table.", "label": 1, "relation": "on"}
+{"image": "000000021503.jpg, "caption": "The kite is above the girl.", "label": 1, "relation": "above"}
+{"image": "000000021604.jpg, "caption": "The cucumber is on the left of the hot dog.", "label": 0, "relation": "on the left of"}
+{"image": "000000021839.jpg, "caption": "The banana is on the right of the food.", "label": 0, "relation": "the right of"}
+{"image": "000000021879.jpg, "caption": "There are chopsticks on the left side of the red food.", "label": 0, "relation": "on the left side of"}
+{"image": "000000021903.jpg, "caption": "The bread is on top of the banana.", "label": 0, "relation": "on top of"}
+{"image": "000000022192.jpg, "caption": "The leaves are on oranges.", "label": 1, "relation": "on"}
+{"image": "000000022371.jpg, "caption": "The cuboid object is below the small object.", "label": 0, "relation": "below"}
+{"image": "000000022396.jpg, "caption": "The plane is on the moon.", "label": 1, "relation": "on"}
+{"image": "000000022479.jpg, "caption": "The bread is on the left of the vegetables.", "label": 1, "relation": "on the left of"}
+{"image": "000000022589.jpg, "caption": "One blue and white porcelain is to the left of the other.", "label": 0, "relation": "the left of"}
+{"image": "000000022623.jpg, "caption": "The turnip is in the glass.", "label": 1, "relation": "in"}
+{"image": "000000022705.jpg, "caption": "The sauce is on the right side of the steak.", "label": 0, "relation": "on the right side of"}
+{"image": "000000022755.jpg, "caption": "The microwave is to the right of the barricade.", "label": 0, "relation": "on the right of"}
+{"image": "000000022892.jpg, "caption": "The drink is on the left of the hot dog.", "label": 1, "relation": "on the left of"}
+{"image": "000000022935.jpg, "caption": "The flowers are at the bottom of the vase.", "label": 0, "relation": "the bottom of"}
+{"image": "000000022969.jpg, "caption": "There is a tree between two giraffes.", "label": 0, "relation": "between"}
+{"image": "000000023023.jpg, "caption": "The big bag is in the middle of the two small bags.", "label": 1, "relation": "the middle of"}
+{"image": "000000023034.jpg, "caption": "The cell phone battery is on the left side of the phone.", "label": 1, "relation": "on the left side of"}
+{"image": "000000023126.jpg, "caption": "The green traffic sign is below the red traffic sign.", "label": 0, "relation": "below"}
+{"image": "000000023230.jpg, "caption": "The TV is on the right of the fire hydrant.", "label": 0, "relation": "on the right of"}
+{"image": "000000023272.jpg, "caption": "The green hat is on the cat's head.", "label": 0, "relation": "on"}
+{"image": "000000023359.jpg, "caption": "The bowl is between the two cups.", "label": 1, "relation": "between"}
+{"image": "000000023666.jpg, "caption": "The green bowl is above the white bowl.", "label": 1, "relation": "above"}
+{"image": "000000023751.jpg, "caption": "The scissors are to the left of the yellow yarn.", "label": 1, "relation": "on the left of"}
+{"image": "000000023781.jpg, "caption": "The needle is on the right of the blue scissors.", "label": 1, "relation": "on the right of"}
+{"image": "000000023899.jpg, "caption": "A big bread is under the doughnut.", "label": 1, "relation": "under"}
+{"image": "000000023937.jpg, "caption": "A potted plant is on the right of the glass.", "label": 0, "relation": "on the right of"}
+{"image": "000000024021.jpg, "caption": "The red plate is on top of the other big plate.", "label": 1, "relation": "on top of"}
+{"image": "000000024027.jpg, "caption": "The cup of coffee is on the left of the cake.", "label": 1, "relation": "on the left of"}
+{"image": "000000024144.jpg, "caption": "The two elephants are not parallel.", "label": 0, "relation": "parallel"}
+{"image": "000000024243.jpg, "caption": "A green apple is on top of a pile of green apples.", "label": 1, "relation": "on top of"}
+{"image": "000000024567.jpg, "caption": "A loaf of bread is on the left side of a pan.", "label": 0, "relation": "on the left side of"}
+{"image": "000000024610.jpg, "caption": "There are no flowers on the vase.", "label": 0, "relation": "on"}
+{"image": "000000024919.jpg, "caption": "The orange is under the apple.", "label": 1, "relation": "under"}
+{"image": "000000025057.jpg, "caption": "The hat is above the doll bear.", "label": 1, "relation": "above"}
+{"image": "000000025096.jpg, "caption": "The blue vase is on the left of the pink vase.", "label": 0, "relation": "on the left of"}
+{"image": "000000025139.jpg, "caption": "The banana is on the left of the pear.", "label": 1, "relation": "on the left of"}
+{"image": "000000025181.jpg, "caption": "Football is on people's heads.", "label": 0, "relation": "on"}
+{"image": "000000025228.jpg, "caption": "The tall vase is on the right of the short one.", "label": 0, "relation": "on the right of"}
+{"image": "000000025386.jpg, "caption": "The teddy bear in black is on the left of the Teddy bear in green.", "label": 1, "relation": "on the left of"}
+{"image": "000000025393.jpg, "caption": "The red bowl is above the juicer.", "label": 0, "relation": "above"}
+{"image": "000000025394.jpg, "caption": "The pink doll bear is to the left of the wine bottle.", "label": 1, "relation": "the left of"}
+{"image": "000000025424.jpg, "caption": "The two sheep are parallel.", "label": 1, "relation": "parallel"}
+{"image": "000000025560.jpg, "caption": "The bowl with the red food is to the left of the bowl with the green food.", "label": 1, "relation": "on the left of"}
+{"image": "000000025593.jpg, "caption": "The green item is to the right of the blue item.", "label": 0, "relation": "on the right of"}
+{"image": "000000025603.jpg, "caption": "The flowers on a vase.", "label": 1, "relation": "on"}
+{"image": "000000025986.jpg, "caption": "The green food is above the yellow food.", "label": 1, "relation": "above"}
+{"image": "000000026204.jpg, "caption": "The yellow sign is to the left of the toilet.", "label": 0, "relation": "on the left of"}
+{"image": "000000026465.jpg, "caption": "There is a white cat on the pumpkin.", "label": 0, "relation": "on"}
+{"image": "000000026564.jpg, "caption": "The green traffic sign is above the red traffic sign.", "label": 1, "relation": "above"}
+{"image": "000000026690.jpg, "caption": "An orange is on the right of the green fork.", "label": 0, "relation": "on the right of"}
+{"image": "000000026926.jpg, "caption": "The apple is above the orange.", "label": 0, "relation": "above"}
+{"image": "000000026941.jpg, "caption": "The blue toy is on the right of the yellow toy.", "label": 1, "relation": "on the right of"}
+{"image": "000000027186.jpg, "caption": "The red sign is below the black sign.", "label": 1, "relation": "below"}
+{"image": "000000027620.jpg, "caption": "The computer is in front of the chair.", "label": 1, "relation": "in front of"}
+{"image": "000000027696.jpg, "caption": "The two clocks are not parallel.", "label": 0, "relation": "parallel"}
+{"image": "000000027768.jpg, "caption": "The mouse is on the right rear of the computer.", "label": 1, "relation": "on the right rear of"}
+{"image": "000000027932.jpg, "caption": "The baseball cap is under the baseball glove.", "label": 0, "relation": "under"}
+{"image": "000000027972.jpg, "caption": "One plane was in front of the other plane.", "label": 1, "relation": "in front of"}
+{"image": "000000027982.jpg, "caption": "The mouse is on the left of the keyboard.", "label": 1, "relation": "on the left of"}
+{"image": "000000028285.jpg, "caption": "The knife is to the right of the carrot.", "label": 1, "relation": "the right of"}
+{"image": "000000028449.jpg, "caption": "The carrots are under the vegetables.", "label": 1, "relation": "under"}
+{"image": "000000028452.jpg, "caption": "The cat is on the bike.", "label": 1, "relation": "on"}
+{"image": "000000028809.jpg, "caption": "The man in yellow is on the right of the man in blue.", "label": 0, "relation": "on the right of"}
+{"image": "000000028993.jpg, "caption": "The glue is on the bottom of the napkin.", "label": 0, "relation": "on the bottom of"}
+{"image": "000000029187.jpg, "caption": "The cup is on the right of the white bowl.", "label": 1, "relation": "on the right of"}
+{"image": "000000029393.jpg, "caption": "The red warning sign is above the white warning sign.", "label": 1, "relation": "above"}
+{"image": "000000029397.jpg, "caption": "The big bread is on the right of the small bread.", "label": 0, "relation": "on the right of"}
+{"image": "000000029596.jpg, "caption": "The sofa is behind the dining table.", "label": 0, "relation": "behind"}
+{"image": "000000029640.jpg, "caption": "The flowers are on the bottom of the cube vase.", "label": 0, "relation": "on the bottom of"}
+{"image": "000000029675.jpg, "caption": "The flower is on top of the pot.", "label": 1, "relation": "on top of"}
+{"image": "000000029984.jpg, "caption": "Blue and pink chairs under green umbrellas.", "label": 1, "relation": "under"}
+{"image": "000000030213.jpg, "caption": "The red warning sign is below the orange warning sign.", "label": 0, "relation": "below"}
+{"image": "000000030494.jpg, "caption": "The banana is between the two oranges.", "label": 1, "relation": "between"}
+{"image": "000000030504.jpg, "caption": "The white pie is to the right of the green doughnut.", "label": 0, "relation": "the right of"}
+{"image": "000000030675.jpg, "caption": "The man in blue is behind the man in white.", "label": 0, "relation": "behind"}
+{"image": "000000030785.jpg, "caption": "The white food is to the left of the bowl with the food.", "label": 1, "relation": "the left of"}
+{"image": "000000030828.jpg, "caption": "The white doll bear is on the right of the brown doll bear.", "label": 1, "relation": "on the right of"}
+{"image": "000000031050.jpg, "caption": "The remote control is on top of the black box.", "label": 0, "relation": "on top of"}
+{"image": "000000031093.jpg, "caption": "The white microwave is under the black microwave.", "label": 0, "relation": "uner"}
+{"image": "000000031118.jpg, "caption": "The bell tower is on the left of the tree.", "label": 1, "relation": "on the left of"}
+{"image": "000000031217.jpg, "caption": "The racket is behind the man.", "label": 0, "relation": "behind"}
+{"image": "000000031248.jpg, "caption": "The blue flowers are in front of the cake.", "label": 1, "relation": "in front"}
+{"image": "000000031269.jpg, "caption": "Two shot glasses are on top of the big China.", "label": 0, "relation": "on top of"}
+{"image": "000000031296.jpg, "caption": "The vegetables are on the right of the steak.", "label": 0, "relation": on the right side of"}
+{"image": "000000031322.jpg, "caption": "The bread is on the right of the banana.", "label": 0, "relation": "on the right of"}
+{"image": "000000031620.jpg, "caption": "The man in green is to the left of the man in purple.", "label": 1, "relation": "the left of"}
+{"image": "000000031735.jpg, "caption": "The red sign is above the white sign.", "label": 1, "relation": "above"}
+{"image": "000000031749.jpg, "caption": "In front of the warning sign are two cows.", "label": 0, "relation": "in front of"}
+{"image": "000000031817.jpg, "caption": "The orange bowl is to the right of the yellow bowl.", "label": 1, "relation": "the right of"}
+{"image": "000000032038.jpg, "caption": "The milk is on top of the black doughnut.", "label": 1, "relation": "on top of"}
+{"image": "000000032081.jpg, "caption": "One doughnut on top of the other two doughnuts.", "label": 0, "relation": "on top of"}
+{"image": "000000032285.jpg, "caption": "The tiger is on the right of the elephant.", "label": 0, "relation": "on the right of"}
+{"image": "000000032334.jpg, "caption": "The condiments are on the right side of the red plate.", "label": 0, "relation": "on the right of"}
+{"image": "000000032570.jpg, "caption": "The white hydrant cap is on top of the red hydrant.", "label": 1, "relation": "on top of"}
+{"image": "000000032610.jpg, "caption": "A red bag is on the right of a pile of threads.", "label": 0, "relation": "on the right of"}
+{"image": "000000032735.jpg, "caption": "The skis are under the person.", "label": 1, "relation": "under"}
+{"image": "000000032811.jpg, "caption": "The apple is under the banana.", "label": 0, "relation": "under"}
+{"image": "000000032817.jpg, "caption": "The mouse is on the left of the teacup.", "label": 1, "relation": "on the left of"}
+{"image": "000000032861.jpg, "caption": "The triangular pie is to the right of the round pie.", "label": 1, "relation": "the right of"}
+{"image": "000000032887.jpg, "caption": "One bird is in front of the other bird.", "label": 1, "relation": "in front of"}
+{"image": "000000032901.jpg, "caption": "The man in pink sweater is to the right of the man in blue.", "label": 1, "relation": "the right of"}
+{"image": "000000032941.jpg, "caption": "The black object is below the yellow object.", "label": 1, "relation": "below"}
+{"image": "000000033005.jpg, "caption": "The apple is above the pear.", "label": 1, "relation": "above"}
+{"image": "000000033104.jpg, "caption": "The bowl with the red dip is underneath the bread.", "label": 1, "relation": "underneath"}
+{"image": "000000033109.jpg, "caption": "The standing horse is to the left of the squatting horse.", "label": 0, "relation": "the left of"}
+{"image": "000000033114.jpg, "caption": "The apple is on the right of the orange.", "label": 1, "relation": "on the right of"}
+{"image": "000000033221.jpg, "caption": "The chocolate donut is to the left of the blue and pink donut.", "label": 0, "relation": "the left of"}
+{"image": "000000033368.jpg, "caption": "The bowl with the carrots is on top of the small bowl with the two oranges.", "label": 1, "relation": "on top of"}
+{"image": "000000033638.jpg, "caption": "The ski car is on the right of the man in yellow.", "label": 1, "relation": "on the right of"}
+{"image": "000000033707.jpg, "caption": "The two giraffes are not parallel.", "label": 0, "relation": "parallel"}
+{"image": "000000033759.jpg, "caption": "The elephant is on the right of the orange.", "label": 0, "relation": "on the right of"}
+{"image": "000000033854.jpg, "caption": "The spoon is on the right of the food.", "label": 0, "relation": "on the right of"}
+{"image": "000000034071.jpg, "caption": "The phone is to the left of the red scissors.", "label": 1, "relation": "the left of"}
+{"image": "000000034139.jpg, "caption": "The huge handbag is on people's left.", "label": 1, "relation": "left"}
+{"image": "000000034205.jpg, "caption": "The dog is on top of the cat.", "label": 1, "relation": "on top of"}
+{"image": "000000034257.jpg, "caption": "Feet on top of the suitcase.", "label": 1, "relation": "on top of"}
+{"image": "000000034417.jpg, "caption": "The green lunch box is on the left side of the blue lunch box.", "label": 1, "relation": "on the left of"}
+{"image": "000000034452.jpg, "caption": "The green doughnut is on the back of the cup.", "label": 0, "relation": "on the back of"}
+{"image": "000000034760.jpg, "caption": "The food is on the right side of the coffee cup.", "label": 1, "relation": "on the right side of"}
+{"image": "000000034873.jpg, "caption": "The vegetables are on the right side of the fish meat.", "label": 0, "relation": "on the right of"}
+{"image": "000000035062.jpg, "caption": "The laptop is on the left side of the teacup.", "label": 1, "relation": "on the left side of"}
+{"image": "000000035197.jpg, "caption": "The towel is on the left side of Winnie Bear.", "label": 1, "relation": "on the left side of"}
+{"image": "000000035279.jpg, "caption": "The grass is in the pot.", "label": 1, "relation": "in"}
+{"image": "000000035326.jpg, "caption": "The phone's on the can.", "label": 0, "relation": "on"}
+{"image": "000000035682.jpg, "caption": "A fruit doughnut is under a chocolate doughnut.", "label": 1, "relation": "under"}
+{"image": "000000035770.jpg, "caption": "The wine glass is to the left of the broccoli.", "label": 0, "relation": "to the left of"}
+{"image": "000000035963.jpg, "caption": "The guy with the blue surfboard is to the right of the white surfboard.", "label": 0, "relation": "the right of"}
+{"image": "000000036494.jpg, "caption": "The yellow skis are below the man in orange.", "label": 1, "relation": "below"}
+{"image": "000000036539.jpg, "caption": "The man dressed in black is to the right of the other man.", "label": 1, "relation": "the right of"}
+{"image": "000000036660.jpg, "caption": "An electronic object is on the left of the phone.", "label": 1, "relation": "on the left of"}
+{"image": "000000036678.jpg, "caption": "The teacup is to the right of the food.", "label": 0, "relation": "the right of"}
+{"image": "000000036844.jpg, "caption": "The yellow sign is to the left of the orange sign.", "label": 1, "relation": "the left of"}
+{"image": "000000036861.jpg, "caption": "The main computer is under the computer monitor.", "label": 1, "relation": "under"}
+{"image": "000000036936.jpg, "caption": "The laptop is on the left of the bag.", "label": 0, "relation": "the left of"}
+{"image": "000000037670.jpg, "caption": "The pizza is on the left of the box.", "label": 1, "relation": "on the left of"}
+{"image": "000000037689.jpg, "caption": "The red warning sign is above the green warning sign.", "label": 0, "relation": "above"}
+{"image": "000000037740.jpg, "caption": "The largest ceramic is in the middle of the two small ceramics.", "label": 1, "relation": "the middle of"}
+{"image": "000000037751.jpg, "caption": "One cat is on top of another cat.", "label": 1, "relation": "on top of"}
+{"image": "000000037777.jpg, "caption": "There are bananas in the vase.", "label": 0, "relation": "in"}
+{"image": "000000037988.jpg, "caption": "Football is in front of people.", "label": 1, "relation": "in front of"}
+{"image": "000000038048.jpg, "caption": "One zebra in front of the other zebra.", "label": 1, "relation": "in front of"}
+{"image": "000000038070.jpg, "caption": "The bread is on top of the vegetables.", "label": 0, "relation": "on top of"}
+{"image": "000000038118.jpg, "caption": "The man is in front of the car.", "label": 1, "relation": "in front of"}
+{"image": "000000038210.jpg, "caption": "The oranges are on the right of the rice box.", "label": 1, "relation": "on the right of"}
+{"image": "000000038576.jpg, "caption": "The keyboard is above the computer screen.", "label": 0, "relation": "above"}
+{"image": "000000038678.jpg, "caption": "The position of the two giraffes is not parallel.", "label": 0, "relation": "parallel"}
+{"image": "000000038825.jpg, "caption": "The skateboard is below the person.", "label": 1, "relation": "below"}
+{"image": "000000038829.jpg, "caption": "The man riding in red is in front of the man riding in blue.", "label": 1, "relation": "in front of"}
+{"image": "000000039405.jpg, "caption": "Drinks are on the left of the bowl with dessert.", "label": 1, "relation": "on the left of"}
+{"image": "000000039477.jpg, "caption": "The box with rice is above the box with food.", "label": 0, "relation": "above"}
+{"image": "000000039480.jpg, "caption": "The lemon is on the left of the pear.", "label": 1, "relation": "on the left of"}
+{"image": "000000039484.jpg, "caption": "The flowers are at the bottom of the vase.", "label": 0, "relation": "the bottom of"}
+{"image": "000000039551.jpg, "caption": "The brown cow is in front of the white cow.", "label": 1, "relation": "in front of"}
+{"image": "000000039670.jpg, "caption": "The position of the two giraffes is parallel.", "label": 1, "relation": "parallel"}
+{"image": "000000039769.jpg, "caption": "One cat is on the left of the other cat.", "label": 1, "relation": "on the left of"}
+{"image": "000000039785.jpg, "caption": "The banana is above the bowl.", "label": 1, "relation": "above"}
+{"image": "000000039914.jpg, "caption": "One zebra in front of the other zebra.", "label": 1, "relation": "in front of"}
+{"image": "000000039951.jpg, "caption": "The phone is under the food.", "label": 1, "relation": "under"}
+{"image": "000000039956.jpg, "caption": "The kite is under the man.", "label": 0, "relation": "under"}
+{"image": "000000040036.jpg, "caption": "The phone is on top of the teacup.", "label": 0, "relation": "on top of"}
+{"image": "000000040083.jpg, "caption": "The chair is above the person.", "label": 0, "relation": "above"}
+{"image": "000000040471.jpg, "caption": "The black sign is under the red one.", "label": 0, "relation": "under"}
+{"image": "000000040757.jpg, "caption": "One white swan was above another white swan.", "label": 1, "relation": "above"}
+{"image": "000000041488.jpg, "caption": "The computer screen is between the two speakers.", "label": 1, "relation": "between"}
+{"image": "000000041633.jpg, "caption": "The yellow hydrant cap is above the white hydrant.", "label": 1, "relation": "above"}
+{"image": "000000041635.jpg, "caption": "The beach chair is under the umbrella.", "label": 1, "relation": "under"}
+{"image": "000000041872.jpg, "caption": "The clock is on the right of the sofa.", "label": 0, "relation": "on the right of"}
+{"image": "000000041888.jpg, "caption": "A peacock is in the middle of two others.", "label": 1, "relation": "in the middle of"}
+{"image": "000000041990.jpg, "caption": "The man in red is on the right of the man in white.", "label": 1, "relation": "on the right of"}
+{"image": "000000042070.jpg, "caption": "The heads of the two giraffes are positioned parallel.", "label": 1, "relation": "parallel"}
+{"image": "000000042102.jpg, "caption": "The white cake is on the right of the black cake.", "label": 0, "relation": "on the right of"}
+{"image": "000000042178.jpg, "caption": "The red heart sits between two bananas.", "label": 1, "relation": "between"}
+{"image": "000000042276.jpg, "caption": "The flowers are on the top of the pot.", "label": 1, "relation": "on the top of"}
+{"image": "000000042296.jpg, "caption": "The green ball is to the right of the polar bear.", "label": 0, "relation": "the right of"}
+{"image": "000000042528.jpg, "caption": "The white plate is under the small white bowl.", "label": 0, "relation": "unedr"}
+{"image": "000000042563.jpg, "caption": "This guy's on a motorcycle.", "label": 1, "relation": "on"}
+{"image": "000000042628.jpg, "caption": "The man dressed in white is in front of the man dressed in black.", "label": 1, "relation": "in front of"}
+{"image": "000000042888.jpg, "caption": "Bicycles are parked under the white sign.", "label": 0, "relation": "under"}
+{"image": "000000042889.jpg, "caption": "An orange balloon is above another orange balloon.", "label": 1, "relation": "above"}
+{"image": "000000043314.jpg, "caption": "The man in yellow is to the right of the man in white.", "label": 1, "relation": "the right of"}
+{"image": "000000043435.jpg, "caption": "The position of the two swans is parallel.", "label": 0, "relation": "parallel"}
+{"image": "000000043581.jpg, "caption": "The red sign is above the blue one.", "label": 0, "relation": "above"}
+{"image": "000000043737.jpg, "caption": "The red suitcase is on top of the black suitcase.", "label": 0, "relation": "on top of"}
+{"image": "000000043816.jpg, "caption": "The man in white is in front of the man in red.", "label": 1, "relation": "in front of"}
+{"image": "000000044068.jpg, "caption": "The white doll bear is on the right of the yellow doll bear.", "label": 0, "relation": "on the right of"}
+{"image": "000000044195.jpg, "caption": "The guy with the skateboard is to the right of the guy without the skateboard.", "label": 1, "relation": "the right of"}
+{"image": "000000044260.jpg, "caption": "Lemon on top of persimmon.", "label": 0, "relation": "on top of"}
+{"image": "000000044279.jpg, "caption": "The can is on the right of the white bowl.", "label": 1, "relation": "on the right of"}
+{"image": "000000044590.jpg, "caption": "The orange is on top of the four buns.", "label": 1, "relation": "on top of"}
+{"image": "000000044652.jpg, "caption": "The owl doll is on the left of the tiger doll.", "label": 1, "relation": "on the left of"}
+{"image": "000000044699.jpg, "caption": "The position of the four sheep is not parallel.", "label": 0, "relation": "parallel"}
+{"image": "000000044877.jpg, "caption": "The brown bear is to the left of the pink bear.", "label": 1, "relation": "the left of"}
+{"image": "000000045070.jpg, "caption": "The plants are at the bottom of the vase.", "label": 0, "relation": "at the bottom of"}
+{"image": "000000045090.jpg, "caption": "The positions of the three zebras are back-to-back.", "label": 0, "relation": "back-to-back"}
+{"image": "000000045229.jpg, "caption": "The wine bottle is on the left of the glass.", "label": 1, "relation": "on the left of"}
+{"image": "000000045472.jpg, "caption": "The incense burner is on the left of the orange.", "label": 1, "relation": "on the left of"}
+{"image": "000000045550.jpg, "caption": "The glass is between the apple and the banana.", "label": 1, "relation": "between"}
+{"image": "000000045596.jpg, "caption": "The knife is on the right side of the bread.", "label": 1, "relation": "on the right side of"}
+{"image": "000000045728.jpg, "caption": "Purple ice cream on the phone.", "label": 0, "relation": "on"}
+{"image": "000000046031.jpg, "caption": "The mouse pad is on the right side of the computer.", "label": 0, "relation": "on the right side of"}
+{"image": "000000046078.jpg, "caption": "The man in white is to the right of the man in black.", "label": 0, "relation": "to the right of"}
+{"image": "000000046252.jpg, "caption": "The man with the baseball bat is in front of the man in blue.", "label": 1, "relation": "in front of"}
+{"image": "000000046378.jpg, "caption": "The balloon is under the child's leg.", "label": 0, "relation": "under"}
+{"image": "000000046463.jpg, "caption": "The apple is on the right of the two loaves.", "label": 1, "relation": "on the right of"}
+{"image": "000000046497.jpg, "caption": "Two sheep are on the right of the other sheep.", "label": 0, "relation": "on the right of"}
+{"image": "000000046804.jpg, "caption": "The keyboard is under the laptop.", "label": 1, "relation": "under"}
+{"image": "000000046873.jpg, "caption": "The black floor tiles are to the left of the blue table.", "label": 0, "relation": "the left of"}
+{"image": "000000047010.jpg, "caption": "The positions of the three giraffes are not parallel.", "label": 0, "relation": "parallel"}
+{"image": "000000047112.jpg, "caption": "The green box is under the purple box.", "label": 1, "relation": "under"}
+{"image": "000000047121.jpg, "caption": "The big box is on the left of the small box.", "label": 0, "relation": "on the left of"}
+{"image": "000000047571.jpg, "caption": "The puppy toy is on the left of the pink toy.", "label": 1, "relation": "on the left of"}
+{"image": "000000047585.jpg, "caption": "The cat is on the left of the dog.", "label": 1, "relation": "on the left of"}
+{"image": "000000047740.jpg, "caption": "The kite is on the left of the man.", "label": 0, "relation": "on the left of"}
+{"image": "000000047769.jpg, "caption": "The man is on the left of the scalper.", "label": 1, "relation": "on the left of"}
+{"image": "000000047801.jpg, "caption": "The man in black is to the left of the man in red.", "label": 1, "relation": "on the left of"}
+{"image": "000000047819.jpg, "caption": "The man is behind the horse.", "label": 1, "relation": "behind"}
+{"image": "000000047828.jpg, "caption": "The flowers are on the left of the vase.", "label": 0, "relation": "on the left of"}
+{"image": "000000048153.jpg, "caption": "The locomotive is on the left of the high-speed train.", "label": 1, "relation": "on the left of"}
+{"image": "000000048396.jpg, "caption": "The apple is on the left of the orange.", "label": 1, "relation": "on the left of"}
+{"image": "000000048504.jpg, "caption": "The water bottle is to the right of the hot dog.", "label": 1, "relation": "on the right of"}
+{"image": "000000048555.jpg, "caption": "The elephant ornament is under the glass bottle.", "label": 0, "relation": "under"}
+{"image": "000000048564.jpg, "caption": "The white radio is on the right of the laptop.", "label": 0, "relation": "on the right of"}
+{"image": "000000048924.jpg, "caption": "The motorcycle is on the right of the tent.", "label": 1, "relation": "on the right of"}
+{"image": "000000049060.jpg, "caption": "One zebra on top of another zebra.", "label": 0, "relation": "on top of"}
+{"image": "000000049091.jpg, "caption": "The orange is above the banana.", "label": 1, "relation": "above"}
+{"image": "000000049259.jpg, "caption": "The man is on the right of the sign.", "label": 0, "relation": "on the right of"}
+{"image": "000000049269.jpg, "caption": "The dog is on the left of the horse.", "label": 1, "relation": "on the left of"}
+{"image": "000000049759.jpg, "caption": "The pink lamp is on top of the white table.", "label": 1, "relation": "on top of"}
+{"image": "000000049761.jpg, "caption": "The coffee cup is on the left of the black cake.", "label": 1, "relation": "on the left of"}
+{"image": "000000049810.jpg, "caption": "The greeting card is on the left of the green vase.", "label": 0, "relation": "on the left of"}
+{"image": "000000050006.jpg, "caption": "The blue box is above the red box.", "label": 0, "relation": "above"}
+{"image": "000000050145.jpg, "caption": "The phone is on the left of the red wool glove.", "label": 1, "relation": "on the left of"}
+{"image": "000000050149.jpg, "caption": "The keyboard is behind the computer screen.", "label": 0, "relation": "behind"}
+{"image": "000000050165.jpg, "caption": "The green hydrant cap is under the hydrant.", "label": 0, "relation": "under"}
+{"image": "000000050326.jpg, "caption": "The gift box is behind the white rabbit.", "label": 0, "relation": "behind"}
+{"image": "000000050331.jpg, "caption": "The man standing is in front of the man squatting.", "label": 1, "relation": "in front of"}
+{"image": "000000050380.jpg, "caption": "The guy with the surfboard is behind him without the surfboard.", "label": 0, "relation": "behind"}
+{"image": "000000050638.jpg, "caption": "One zebra is behind another zebra.", "label": 1, "relation": "behind"}
+{"image": "000000050679.jpg, "caption": "The black pizza is under the two red pizzas.", "label": 1, "relation": "under"}
+{"image": "000000050811.jpg, "caption": "The teacup is in front of the orange plate.", "label": 1, "relation": "in front of"}
+{"image": "000000050828.jpg, "caption": "The black bear doll is on the left of the paper bear.", "label": 0, "relation": "on the left of"}
+{"image": "000000050844.jpg, "caption": "The position of the two giraffes is parallel.", "label": 1, "relation": "parallel"}
+{"image": "000000050896.jpg, "caption": "The white sign is in front of the red sign.", "label": 0, "relation": "in front of"}
+{"image": "000000050943.jpg, "caption": "The flowers are at the bottom of the vase.", "label": 0, "relation": "the bottom of"}
+{"image": "000000051008.jpg, "caption": "The white laptop is to the left of the black screen.", "label": 1, "relation": "on the left of"}
+{"image": "000000051309.jpg, "caption": "The red suitcase is on the left of the black suitcase.", "label": 0, "relation": "on the left of"}
+{"image": "000000051314.jpg, "caption": "One toilet is on top of the other.", "label": 0, "relation": "on top of"}
+{"image": "000000051326.jpg, "caption": "The position of the two cows is parallel.", "label": 1, "relation": "parallel"}
+{"image": "000000051598.jpg, "caption": "The orange is under the blue plate.", "label": 0, "relation": "under"}
+{"image": "000000051610.jpg, "caption": "The red pepper is to the left of the green pepper.", "label": 1, "relation": "the left of"}
+{"image": "000000051712.jpg, "caption": "A hot dog on top of another hot dog.", "label": 1, "relation": "on top of"}
+{"image": "000000051738.jpg, "caption": "The food is on the cup.", "label": 0, "relation": "on"}
+{"image": "000000051938.jpg, "caption": "The man is above the red pole.", "label": 1, "relation": "above"}
+{"image": "000000051961.jpg, "caption": "The sink is to the left of the trash can.", "label": 1, "relation": "on the left of"}
+{"image": "000000051976.jpg, "caption": "The purple bread is under the yellow bread.", "label": 1, "relation": "under"}
+{"image": "000000052007.jpg, "caption": "The dandelion is on top of the purple vase.", "label": 1, "relation": "on top of"}
+{"image": "000000052017.jpg, "caption": "The red sign is below the white one.", "label": 0, "relation": "below"}
+{"image": "000000052412.jpg, "caption": "The bear is on the right of the hound.", "label": 0, "relation": "on the right of"}
+{"image": "000000052413.jpg, "caption": "The pillow rests on the sofa.", "label": 1, "relation": "on"}
+{"image": "000000052462.jpg, "caption": "The position of the two zebras is parallel.", "label": 0, "relation": "parallel"}
+{"image": "000000052507.jpg, "caption": "The sink is on the left of the toilet.", "label": 1, "relation": "on the left of"}
+{"image": "000000052565.jpg, "caption": "The mouse is on top of the magazine.", "label": 0, "relation": "on top of"}
+{"image": "000000052591.jpg, "caption": "The man in the red hat is between the man in the blue hat and the man in the black hat.", "label": 1, "relation": "between"}
+{"image": "000000052891.jpg, "caption": "The man in blue is on the right of the man in white.", "label": 1, "relation": "on the right of"}
+{"image": "000000052996.jpg, "caption": "The toilet is on the right of the sink.", "label": 0, "relation": "on the right of"}
+{"image": "000000053505.jpg, "caption": "The three bottles are parallel.", "label": 1, "relation": "parallel"}
+{"image": "000000053529.jpg, "caption": "One polar bear is on the left of another polar bear.", "label": 1, "relation": "on the left of"}
+{"image": "000000053624.jpg, "caption": "The man with the blue hat is on the right of the other man.", "label": 0, "relation": "on the right of"}
+{"image": "000000053626.jpg, "caption": "The man in blue is to the right of the man in black.", "label": 0, "relation": "the right of"}
+{"image": "000000053909.jpg, "caption": "The glass with orange juice is in front of the bread.", "label": 1, "relation": "in front of"}
+{"image": "000000053994.jpg, "caption": "The sink is on the left of the toilet.", "label": 1, "relation": "on the left of"}
+{"image": "000000054123.jpg, "caption": "The man with the pink umbrella is to the right of the man with the blue umbrella.", "label": 0, "relation": "the right of"}
+{"image": "000000054164.jpg, "caption": "The teacup is on the right of the sandwich.", "label": 0, "relation": "on the right of"}
+{"image": "000000054592.jpg, "caption": "The stick is in front of the man holding it.", "label": 1, "relation": "in front of"}
+{"image": "000000054593.jpg, "caption": "Drinks are on the right side of the sandwich.", "label": 1, "relation": "on the right side of"}
+{"image": "000000054605.jpg, "caption": "Drinks are on the left side of the cake.", "label": 1, "relation": "on the left side of"}
+{"image": "000000054628.jpg, "caption": "The man in black is to the left of the man in white.", "label": 0, "relation": "the left of"}
+{"image": "000000054654.jpg, "caption": "The position of the two giraffes is parallel.", "label": 0, "relation": "parallel"}
+{"image": "000000054931.jpg, "caption": "The red pizza is to the left of the white pizza.", "label": 0, "relation": "the left of"}
+{"image": "000000054967.jpg, "caption": "The dog is behind the cat.", "label": 1, "relation": "behind"}
+{"image": "000000055002.jpg, "caption": "The man in white is in front of the man in brown.", "label": 1, "relation": "in front of"}
+{"image": "000000055022.jpg, "caption": "The man in red is to the left of the man in blue.", "label": 0, "relation": "to the left of"}
+{"image": "000000055072.jpg, "caption": "The warning sign is to the right of the person.", "label": 0, "relation": "the right of"}
+{"image": "000000055150.jpg, "caption": "The hot air balloon is under the person's leg.", "label": 0, "relation": "under"}
+{"image": "000000055167.jpg, "caption": "The drink is on the right of the food.", "label": 1, "relation": "on the right of"}
+{"image": "000000055299.jpg, "caption": "One horse is in the middle of the other two.", "label": 1, "relation": "in the middle of"}
+{"image": "000000055528.jpg, "caption": "The hydrant is to the right of the person.", "label": 0, "relation": "to the right of"}
+{"image": "000000055950.jpg, "caption": "The knife is to the right of the carrot.", "label": 1, "relation": "to the right of"}
+{"image": "000000056127.jpg, "caption": "The bucket is in front of the toilet.", "label": 1, "relation": "in front of"}
+{"image": "000000056288.jpg, "caption": "The cherries are on the left of the vegetables.", "label": 1, "relation": "on the left of"}
+{"image": "000000056344.jpg, "caption": "The man standing is behind the man squatting.", "label": 0, "relation": "behind"}
+{"image": "000000056350.jpg, "caption": "The baby elephant is in front of the elephant.", "label": 1, "relation": "in front of"}
+{"image": "000000056545.jpg, "caption": "Yellow donuts on top of purple sweet ones.", "label": 0, "relation": "on top of"}
+{"image": "000000057027.jpg, "caption": "The cheese is on the banana.", "label": 1, "relation": "on"}
+
