@@ -5,10 +5,7 @@ This repository contains the official implementation of our TRACE framework. Det
 ## Introduction 
 Retrieval-augmented generation (RAG) offers an effective approach for addressing question answering (QA) tasks. However, the imperfections of the retrievers in RAG models often result in the retrieval of irrelevant information, which could introduce noises and degrade the performance, especially when handling multi-hop questions that require multiple steps of reasoning.  To enhance the multi-hop reasoning ability of RAG models, we propose TRACE. TRACE constructs *knowledge-grounded reasoning chains*, which are a series of logically connected knowledge triples, to identify and integrate supporting evidence from the retrieved documents for answering questions. Specifically, TRACE first employs a KG Generator to create a knowledge graph (KG) from the retrieved documents, and then uses an Autoregressive Reasoning Chain Constructor to build reasoning chains. Given the reasoning chains, the TRACE reader either directly uses them as context to generate the answer (TRACE-Triple) or use the triples within these chains to retrieve their original documents and then uses these documents as the context to generate the answer (TRACE-Doc). 
 
-<figure style="text-align: center;">
-  <img src="figures/model.png" alt="model">
-  <figcaption>Overview of TRACE.</figcaption>
-</figure>
+![image](https://github.com/zhouhao028/Iknow_up/blob/main/Figures/model.png)
 
 ## Prepare Data 
 The datasets used in our experiments can be downloaded from their official websites: [HotPotQA](https://hotpotqa.github.io/), [2WikiMultiHopQA](https://github.com/Alab-NII/2wikimultihop), [MuSiQue](https://github.com/StonyBrookNLP/musique). 
