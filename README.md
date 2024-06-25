@@ -8,7 +8,7 @@ Visual Language Models (VLMs) are essential for various tasks, particularly the 
 ![image](https://github.com/zhouhao028/Iknow_up/blob/main/Figures/model.png)
 
 ## Prepare Data 
-The datasets used in our experiments can be downloaded from their official websites: [HotPotQA](https://hotpotqa.github.io/), [2WikiMultiHopQA](https://github.com/Alab-NII/2wikimultihop), [MuSiQue](https://github.com/StonyBrookNLP/musique). 
+The datasets used in our experiments can be downloaded from their official websites: [VSR](https://github.com/cambridgeltl/visual-spatial-reasoning), [2WikiMultiHopQA](https://github.com/Alab-NII/2wikimultihop), [MuSiQue](https://github.com/StonyBrookNLP/musique). 
 
 After downloading the dataset, run the following command to create the development and test sets used in our experiments: 
 
