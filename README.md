@@ -1,9 +1,9 @@
-# TRACE the Evidence: Constructing Knowledge-Grounded Reasoning Chains for Retrieval-Augmented Generation
+# I Know About “Up”! Enhancing Spatial Reasoning in Visual Language Models Through 3D Reconstruction
 
-This repository contains the official implementation of our TRACE framework. Details about TRACE can be found in our paper. 
+This ZeroVLM model improves the visual-spatial reasoning capabilities of vision-language models. Details about ZeroVLM can be found in our paper. 
 
 ## Introduction 
-Retrieval-augmented generation (RAG) offers an effective approach for addressing question answering (QA) tasks. However, the imperfections of the retrievers in RAG models often result in the retrieval of irrelevant information, which could introduce noises and degrade the performance, especially when handling multi-hop questions that require multiple steps of reasoning.  To enhance the multi-hop reasoning ability of RAG models, we propose TRACE. TRACE constructs *knowledge-grounded reasoning chains*, which are a series of logically connected knowledge triples, to identify and integrate supporting evidence from the retrieved documents for answering questions. Specifically, TRACE first employs a KG Generator to create a knowledge graph (KG) from the retrieved documents, and then uses an Autoregressive Reasoning Chain Constructor to build reasoning chains. Given the reasoning chains, the TRACE reader either directly uses them as context to generate the answer (TRACE-Triple) or use the triples within these chains to retrieve their original documents and then uses these documents as the context to generate the answer (TRACE-Doc). 
+Visual Language Models (VLMs) are essential for various tasks, particularly the visual reasoning tasks, due to their robust multi-modal information integration, visual reasoning capabilities, and contextual awareness. However, existing VLMs visual spatial reasoning capabilities are often inadequate, struggling even with basic tasks such as distinguishing left from right. To address this, we propose the ZeroVLM model, designed to enhance the visual spatial reasoning abilities of VLMs. ZeroVLM employs Zero-1-to-3, a 3D reconstruction model for obtaining different views of the input images and incorporates a view prompt to further improve visual spatial reasoning. Experimental results on four visual spatial reasoning datasets show that our ZeroVLM achieves up to 19.48\% accuracy improvement, which indicates the effectiveness of 3D reconstruction and view prompt of our ZeroVLM. 
 
 ![image](https://github.com/zhouhao028/Iknow_up/blob/main/Figures/model.png)
 
@@ -67,4 +67,4 @@ python evaluation.py \
 
 
 ## Contact: 
-If you have any questions about the code, feel free to contact me via fangjy6@gmail.com.
+If you have any questions about the code, feel free to contact me via hao.zhou28@outlook.com.
