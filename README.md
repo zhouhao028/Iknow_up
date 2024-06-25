@@ -8,17 +8,15 @@ Visual Language Models (VLMs) are essential for various tasks, particularly the 
 ![image](https://github.com/zhouhao028/Iknow_up/blob/main/Figures/model.png)
 
 ## Prepare Data 
-The datasets used in our experiments can be downloaded from their official websites: [VSR](https://github.com/cambridgeltl/visual-spatial-reasoning), [Whatsup_vlm](https://github.com/amitakamath/whatsup_vlms). 
+The datasets used in our experiments can be downloaded from their official websites: [VSR](https://github.com/cambridgeltl/visual-spatial-reasoning), [Whatsup_vlm](https://github.com/amitakamath/whatsup_vlms).
 
-After [Zero-1-to-3](https://github.com/cvlab-columbia/zero123) on the VSR dataset and Whatsup_vlm dataset, we obtained the 3D reconstructed dataset. Using the 3D reconstructed VSR dataset and Whatsup_vlm dataset, run the following command to create the model used in our experiment: 
+## 3D Reconstruction 
+[Zero-1-to-3](https://github.com/cvlab-columbia/zero123) is a model designed for visual reconstruction tasks. We use Zero-1-to-3 as our model component to perform 3D reconstruction on the dataset.
 
-```
-python run_llava.py \
-    --model-path \
-    --image-folder \
-    --jsonl-file 
-```
-where `--model-path` specifies the folder containing the test model, `--image-folder` indicates the folder of the test dataset, and `--jsonl-file` indicates the folder of the problem corresponding to the dataset. 
+## Data Augmentation by 3D Reconstruction 
+In our work, we use Zero-1-to-3 for 3D reconstruction on the dataset to generate single-view images from different viewpoints, e.g. the left, right and random views. Our investigation not only explores whether the creation of single-view images can enhance the visual spatial reasoning capabilities of VLMs but also examines whether multi-view images can help this improvement, where multi-view images are synthesized from different single-view images.
+
+![image](https://github.com/zhouhao028/Iknow_up/blob/main/Figures/model.png)
 
 
 ## Evaluation of TRACE 
@@ -31,12 +29,12 @@ If you are only interested in the final results, you can download our generated 
 ### 1. KG Generation 
 Run the followiing command to generate KGs: 
 ```
-python generate_knowledge_triples.py \
-    --dataset hotpotqa \
-    --input_data_file data/hotpotqa/dev.json \
-    --save_data_file data/hotpotqa/dev_with_kgs.json 
+python run_llava.py \
+    --model-path \
+    --image-folder \
+    --jsonl-file 
 ```
-We use LLaMA3 from huggingface as the backbone model to generate KGs. To access the LLaMA3 model, update the `HF_TOKEN` in the `utils/const.py` file with an authorised token. 
+where `--model-path` specifies the folder containing the test model, `--image-folder` indicates the folder of the test dataset, and `--jsonl-file` indicates the folder of the problem corresponding to the dataset. 
 
 ### 2. Reasoning Chain Construction 
 Run the following command to construct reasoning chains:
