@@ -8,17 +8,17 @@ Visual Language Models (VLMs) are essential for various tasks, particularly the 
 ![image](https://github.com/zhouhao028/Iknow_up/blob/main/Figures/model.png)
 
 ## Prepare Data 
-The datasets used in our experiments can be downloaded from their official websites: [VSR](https://github.com/cambridgeltl/visual-spatial-reasoning), [2WikiMultiHopQA](https://github.com/Alab-NII/2wikimultihop), [MuSiQue](https://github.com/StonyBrookNLP/musique). 
+The datasets used in our experiments can be downloaded from their official websites: [VSR](https://github.com/cambridgeltl/visual-spatial-reasoning), [Whatsup_vlm](https://github.com/amitakamath/whatsup_vlms). 
 
-After downloading the dataset, run the following command to create the development and test sets used in our experiments: 
+After [Zero-1-to-3](https://github.com/cvlab-columbia/zero123) on the VSR dataset and Whatsup_vlm dataset, we obtained the 3D reconstructed dataset. Using the 3D reconstructed VSR dataset and Whatsup_vlm dataset, run the following command to create the model used in our experiment: 
 
 ```
-python preprocessing_data.py \
-    --dataset hotpotqa \
-    --raw_data_folder data/hotpotqa/raw_data \
-    --save_data_folder data/hotpotqa 
+python run_llava.py \
+    --model-path \
+    --image-folder \
+    --jsonl-file 
 ```
-where `--raw_data_folder` specifies the folder containing the raw data and `--save_data_folder` denotes the folder where the development and test data will be saved. 
+where `--model-path` specifies the folder containing the test model, `--image-folder` indicates the folder of the test dataset, and `--jsonl-file` indicates the folder of the problem corresponding to the dataset. 
 
 
 ## Evaluation of TRACE 
