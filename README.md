@@ -19,7 +19,7 @@ In our work, we use Zero-1-to-3 for 3D reconstruction on the dataset to generate
 ![image](https://github.com/zhouhao028/Iknow_up/blob/main/Figures/DataSet.png)
 
 ## View Prompt 
-To further explore whether the context prompt can enhance VLMs visual spatial reasoning ability, we introduced a special prompt called view prompt in the experiment. This view prompt varies depending on the input image and its views. We designed a variety of view prompts based on the content of different view images to guide VLMs to better understand and reason about the view spatial relationship between the target object and other objects in the image. 
+To further explore whether the context prompt can enhance VLMs visual spatial reasoning ability, we introduced a special prompt called view prompt in the experiment. This view prompt varies depending on the input image and its views. We designed a variety of view prompts based on the content of different view images to guide VLMs to better understand and reason about the view spatial relationship between the target object and other objects in the image. The following figure shows two view prompt examples over a single view and multiple views of the input.
 
 ![image](https://github.com/zhouhao028/Iknow_up/blob/main/Figures/View%20Prompt.png)
 
