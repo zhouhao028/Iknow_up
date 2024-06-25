@@ -23,16 +23,15 @@ To further explore whether the context prompt can enhance VLMs visual spatial re
 
 ![image](https://github.com/zhouhao028/Iknow_up/blob/main/Figures/View%20Prompt.png)
 
+## Baselines And Backbones
+In our study, we use [LLaVA](https://llava-vl.github.io/) and [MiniGpt-4](https://minigpt-4.github.io/) as baseline models. We use LLaVA and MiniGpt-4 as the backbone VLMs of our ZeroVLM in all the experiments. In particular, we denote ZeroVLM (LLaVA) as our model based on the LLaVA model, which can process image inputs and improve efficiency and performance through joint learning of image and text instructions, while  ZeroVLM (MiniGpt-4) as our model based on the MiniGpt-4 model, which combines the powerful generation ability of language models with visual information capabilities.
 
-## Evaluation of TRACE 
+## Evaluation Metric 
+For evaluation, we judge the accuracy of the visual spatial reasoning ability of ZeroVLM (LLaVA) and ZeroVLM (MiniGpt-4) based on the answers answered by ZeroVLM (LLaVA) and ZeroVLM (MiniGpt-4). 
 
-TRACE uses the following steps to answer multi-hop questions: (1) KG generation; (2) reasoning chain construction; (3) answer generation. 
-We provide commands for each of these steps and the prompts for these steps can be found in the `prompts/` folder. 
-
-If you are only interested in the final results, you can download our generated data from [here](https://osf.io/p9ymg/?view_only=ad39cfb2c229493888e1e48fb44bd4a9) and skip directly to the Answer Generation step to evaluate the performance by running the provided command. 
-
-### 1. KG Generation 
-Run the followiing command to generate KGs: 
+### 1. ZeroVLM (LLaVA) 
+Run the following command in [LLaVA](https://llava-vl.github.io/) (Our run_llava.py is inconsistent with the run_llava.py in [LLaVA](https://llava-vl.github.io/). Please replace [LLaVA](https://llava-vl.github.io/)/llava
+/eval/run_llava with our run_llava.py): 
 ```
 python run_llava.py \
     --model-path \
@@ -41,7 +40,7 @@ python run_llava.py \
 ```
 where `--model-path` specifies the folder containing the test model, `--image-folder` indicates the folder of the test dataset, and `--jsonl-file` indicates the folder of the problem corresponding to the dataset. 
 
-### 2. Reasoning Chain Construction 
+### 2. ZeroVLM (MiniGpt-4) 
 Run the following command to construct reasoning chains:
 ```
 python construct_reasoning_chains.py \
@@ -52,21 +51,6 @@ python construct_reasoning_chains.py \
   --max_chain_length 4 
 ```
 The `calculate_ranked_prompt_indices` parameter denotes whether to use a retriever model to adaptively choose demonstrations for each question. The number of demonstrations can be set with the `num_examplars` parameter. Additionally, the number of candidate triples $K$ can be set with `num_choices` parameter. 
-
-### 3. Answer Generation 
-Run the following command to evaluate the QA performance: 
-```
-python evaluation.py \
-  --test_file data/hotpotqa/dev_with_reasoning_chains.json \
-  --reader llama3 \
-  --context_type triples \
-  --n_context 5 
-```
-`reader`: Specifies the reader model used for evaluation. Current options are ["llama3", "mistral", "gemma"]. To access some of these models, update the `HF_TOKEN` in the `utils/const.py` to an authorised token. 
-
-`context_type`: Specifies the type of the context. Setting it to "triples" denotes the TRACE-Triple method. Setting it to "documents" denotes the TRACE-Doc method. Setting it to "all_documents" denotes using all the documents as context. 
-
-`num_context`: Specifies the number of reasoning chains used for each question. 
 
 
 ## Contact: 
