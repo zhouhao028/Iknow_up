@@ -16,7 +16,7 @@ The datasets used in our experiments can be downloaded from their official websi
 ## Data Augmentation by 3D Reconstruction 
 In our work, we use Zero-1-to-3 for 3D reconstruction on the dataset to generate single-view images from different viewpoints, e.g. the left, right and random views. Our investigation not only explores whether the creation of single-view images can enhance the visual spatial reasoning capabilities of VLMs but also examines whether multi-view images can help this improvement, where multi-view images are synthesized from different single-view images.
 
-![image](https://github.com/zhouhao028/Iknow_up/blob/main/Figures/model.png)
+![image](https://github.com/zhouhao028/Iknow_up/blob/main/Figures/DataSet.png)
 
 
 ## Evaluation of TRACE 
