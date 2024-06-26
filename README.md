@@ -31,7 +31,7 @@ For evaluation, we judge the accuracy of the visual spatial reasoning ability of
 
 ### 1. ZeroVLM (LLaVA) 
 Run the following command in [LLaVA](https://llava-vl.github.io/) (Our run_llava.py is inconsistent with the run_llava.py in [LLaVA](https://llava-vl.github.io/). Please replace [LLaVA](https://llava-vl.github.io/)/llava
-/eval/run_llava with our run_llava.py): 
+/eval/run_llava.py with our run_llava.py): 
 ```
 python run_llava.py \
     --model-path \
@@ -41,12 +41,10 @@ python run_llava.py \
 where `--model-path` specifies the folder containing the test model, `--images` indicates that multiple image inputs are supported, and `--query` indicates the question corresponding to the image. 
 
 ### 2. ZeroVLM (MiniGpt-4) 
-Run the following command in [MiniGpt-4](https://minigpt-4.github.io/)():
+Run the following command in [MiniGpt-4](https://minigpt-4.github.io/)(The MiniGpt-4 we use is based on the Vicuna version):
 ```
 python demo.py --cfg-path eval_configs/minigpt4_eval.yaml  --gpu-id 0
 ```
-The `calculate_ranked_prompt_indices` parameter denotes whether to use a retriever model to adaptively choose demonstrations for each question. The number of demonstrations can be set with the `num_examplars` parameter. Additionally, the number of candidate triples $K$ can be set with `num_choices` parameter. 
-
 
 ## Contact: 
 If you have any questions about the code, feel free to contact me via hao.zhou28@outlook.com.
