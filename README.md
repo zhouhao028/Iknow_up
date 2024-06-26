@@ -35,10 +35,10 @@ Run the following command in [LLaVA](https://llava-vl.github.io/) (Our run_llava
 ```
 python run_llava.py \
     --model-path \
-    --image-folder \
-    --jsonl-file 
+    --images \
+    --query 
 ```
-where `--model-path` specifies the folder containing the test model, `--image-folder` indicates the folder of the test dataset, and `--jsonl-file` indicates the folder of the problem corresponding to the dataset. 
+where `--model-path` specifies the folder containing the test model, `--images` indicates that multiple image inputs are supported, and `--query` indicates the question corresponding to the image. 
 
 ### 2. ZeroVLM (MiniGpt-4) 
 Run the following command to construct reasoning chains:
