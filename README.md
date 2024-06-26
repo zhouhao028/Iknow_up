@@ -41,14 +41,9 @@ python run_llava.py \
 where `--model-path` specifies the folder containing the test model, `--images` indicates that multiple image inputs are supported, and `--query` indicates the question corresponding to the image. 
 
 ### 2. ZeroVLM (MiniGpt-4) 
-Run the following command to construct reasoning chains:
+Run the following command in [MiniGpt-4](https://minigpt-4.github.io/)():
 ```
-python construct_reasoning_chains.py \
-  --dataset hotpotqa \
-  --input_data_file data/hotpotqa/dev_with_kgs.json \
-  --output_data_file data/hotpotqa/dev_with_reasoning_chains.json \
-  --calculate_ranked_prompt_indices \
-  --max_chain_length 4 
+python demo.py --cfg-path eval_configs/minigpt4_eval.yaml  --gpu-id 0
 ```
 The `calculate_ranked_prompt_indices` parameter denotes whether to use a retriever model to adaptively choose demonstrations for each question. The number of demonstrations can be set with the `num_examplars` parameter. Additionally, the number of candidate triples $K$ can be set with `num_choices` parameter. 
 
