@@ -8,7 +8,7 @@ Visual Language Models (VLMs) are essential for various tasks, particularly the 
 ![image](https://github.com/zhouhao028/Iknow_up/blob/main/Figures/model.png)
 
 ## Prepare Data 
-The datasets used in our experiments can be downloaded from their official websites: [VSR](https://github.com/cambridgeltl/visual-spatial-reasoning), [Whatsup_vlm](https://github.com/amitakamath/whatsup_vlms).
+The datasets used in our experiments can be downloaded from their official websites: [VSR](https://github.com/cambridgeltl/visual-spatial-reasoning), [Whatsup_vlm](https://github.com/amitakamath/whatsup_vlms).We provide some of the datasets, can be found here {[GoogleDrive](https://drive.google.com/drive/folders/1wgZX8M9d0vZsEhJAYGMxmr3sa0O6ig8j?usp=drive_link)}.
 
 ## 3D Reconstruction 
 [Zero-1-to-3](https://github.com/cvlab-columbia/zero123) is a model designed for visual reconstruction tasks. We use Zero-1-to-3 as our model component to perform 3D reconstruction on the dataset.
@@ -28,9 +28,6 @@ In our study, we use [LLaVA](https://llava-vl.github.io/) and [MiniGpt-4](https:
 
 ## Evaluation Metric 
 For evaluation, we judge the accuracy of the visual spatial reasoning ability of ZeroVLM (LLaVA) and ZeroVLM (MiniGpt-4) based on the answers answered by ZeroVLM (LLaVA) and ZeroVLM (MiniGpt-4). 
-
-### 3D Reconstructed Dataset 
-We provide some of the datasets, can be found here {[GoogleDrive](https://drive.google.com/drive/folders/1wgZX8M9d0vZsEhJAYGMxmr3sa0O6ig8j?usp=drive_link)}.
 
 ### 1. ZeroVLM (LLaVA) 
 Run the following command in [LLaVA](https://llava-vl.github.io/) (Our run_llava.py is inconsistent with the run_llava.py in [LLaVA](https://llava-vl.github.io/). Please replace [LLaVA](https://llava-vl.github.io/)/llava
